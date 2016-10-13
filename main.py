@@ -12,7 +12,7 @@ import requests
 import transliterate
 import json
 
-login, password = '79104827408', 'q1w2E#R$'
+login, password = '********', '*******'
 cloud_path = '/home/rkorolev/CloudVk/'
 
 vk_session = vk_api.VkApi(login, password)
